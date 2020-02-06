@@ -18,5 +18,4 @@ class Meal
   def self.all 
     return @@all 
   end 
-    
 end
